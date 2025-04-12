@@ -32,7 +32,7 @@ Hi, I’m [Majid Hassan], a passionate developer focused on creating interactive
 - TypeScript ![TypeScript](...)[...]  
 
 ## Live Demo  
-Check out my live portfolio [here](([https://majid-hassan-personal-portfolio.vercel.app/](https://majid-hassan-personal-portfolio.vercel.app/))).  
+Check out my live portfolio [here](((https://majid-hassan-personal-portfolio.vercel.app/))).
 
 ## Installation  
 Clone the repository:  
