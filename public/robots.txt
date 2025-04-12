@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://next-clerk-quick-cart.vercel.app
+
+# Sitemaps
+Sitemap: https://next-clerk-quick-cart.vercel.app/sitemap.xml
